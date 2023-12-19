@@ -2,7 +2,7 @@
 Introduction to Robotics: Matrix Project
 
 <details>
-  <summary> k 7: Mini 8x8 LED Matrix Project 🎮  </summary>
+  Mini 8x8 LED Matrix Project 🎮 
 
   <br>
   
@@ -25,16 +25,20 @@ Introduction to Robotics: Matrix Project
 🕹️ Controls
 
 The game is controlled using a joystick and a button. The joystick allows the player to move up, down, left, and right across the matrix, while the button is used to place bombs.
+
 📺 Display
 
 The game uses a Liquid Crystal Display (LCD) to show important game information like the timer ⏲️, score 📈, and highscore 🏆.
 The LED matrix displays the game arena, including the player's position, walls, and bombs.
+
 🎛️ Settings Menu
 
 Players can adjust the LCD and LED matrix brightness through a settings menu, providing a personalized gaming experience.
+
 🔊 Sound Effects
 
 The game features sound effects like a bomb explosion sound, adding more excitement to the gameplay.
+
 🕹️ Gameplay
 
 The game starts with a countdown and randomly generates walls on the LED matrix.
@@ -51,7 +55,7 @@ Players return to the main menu to start a new game or adjust settings.
 
   ### 🎥 How it works: (https://youtu.be/ZOAwSftrmVg?feature=shared)
 
-  <img src="" width="400" height="500">
+  <img src="https://github.com/tinutzaa/Matrix-Project-/blob/main/WhatsApp%20Image%202023-12-20%20at%2000.21.46.jpeg" width="400" height="500">
 
 
  </br>
