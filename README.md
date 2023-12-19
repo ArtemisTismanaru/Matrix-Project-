@@ -1,8 +1,7 @@
 # Matrix-Project
 Introduction to Robotics: Matrix Project
 
-<details>
-  Mini 8x8 LED Matrix Project 🎮 
+  # Mini 8x8 LED Matrix Project 🎮 
 
   
   
@@ -59,4 +58,4 @@ Players return to the main menu to start a new game or adjust settings.
 
 
 
-</details>
+
