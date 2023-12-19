@@ -4,7 +4,7 @@ Introduction to Robotics: Matrix Project
 <details>
   Mini 8x8 LED Matrix Project 🎮 
 
-  <br>
+  
   
   ### Task: 
 
@@ -58,5 +58,5 @@ Players return to the main menu to start a new game or adjust settings.
   <img src="https://github.com/tinutzaa/Matrix-Project-/blob/main/WhatsApp%20Image%202023-12-20%20at%2000.21.46.jpeg" width="400" height="500">
 
 
- </br>
+
 </details>
