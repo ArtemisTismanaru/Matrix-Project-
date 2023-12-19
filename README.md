@@ -47,7 +47,7 @@ The game ends when all walls are destroyed, and the score is compared to the hig
 Players return to the main menu to start a new game or adjust settings.
 👉 This Arduino project combines hardware manipulation (LCD, LED matrix, joystick) and software logic to create an engaging and interactive game experience. Enjoy the blend of strategy, quick thinking, and fun in this classic game remake! 🚀🎉
 
-  ### 💻 Code: ()
+  ### 💻 Code: (https://github.com/tinutzaa/Matrix-Project-/blob/main/Matrix_project.ino)
 
   ### 🎥 How it works: (https://youtu.be/ZOAwSftrmVg?feature=shared)
 
