@@ -3,9 +3,12 @@ Introduction to Robotics: Matrix Project
 
   # Mini 8x8 LED Matrix Project 🎮 
 
+
   
   
   ### Task: 🎓 Unibuc Robotics Matrix Project (2023 - 2024)
+
+  
 
   🎲 Project Objective:
   Create an engaging and fun game using a matrix display, with different requirements.
@@ -46,7 +49,11 @@ Introduction to Robotics: Matrix Project
     •Buzzer
     •LCD display
 
+    
+
   ### Description: 🎮 Bomberman Game Overview
+
+  
 
 👾 This Arduino-based game, inspired by the classic "Bomberman," involves navigating a player through a matrix LED display filled with walls. The player's mission is to strategically place bombs 💣 to destroy these walls while avoiding getting trapped.
 
