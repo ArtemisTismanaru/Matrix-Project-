@@ -1,2 +1,2 @@
-# Matrix-Project-
+# Matrix-Project
 Introduction to Robotics: Matrix Project
