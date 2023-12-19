@@ -5,7 +5,36 @@ Introduction to Robotics: Matrix Project
 
   
   
-  ### Task: 
+  ### Task: 🎓 Unibuc Robotics Matrix Project (2023 - 2024)
+
+  🎲 Project Objective:
+  Create an engaging and fun game using a matrix display, with different requirements.
+
+  👾 Game Requirements:
+
+  Minimum components: LCD, joystick, buzzer, LED matrix.
+  Basic sound effects are required (e.g., for eating food, dying, finishing a level).
+  Each level should work on a 16x16 matrix with concepts like visibility or "rooms".
+  The game should be intuitive, fun, and progressively challenging.
+  🖥️ Menu Requirements:
+  
+  Intro Message: Display a greeting message upon powering up.
+  Menu Categories:
+  Start Game: Initiates the game.
+  Highscore: Track and display high scores. Save the top values in EEPROM.
+  Settings: Includes LCD brightness, matrix brightness, sound settings, and more. Save settings to EEPROM.
+  About: Details about the game creators.
+  How to Play: Provide a short, informative game description.
+  In-Game Display: Show relevant info like lives, level, score, etc.
+  Post-Game Screens: Display game results and check if the player beat the highscore.
+  🔧 Useful Resources:
+  
+  LedControl library, LCD displays information, inspirational videos from previous projects.
+  🎨 Creative Freedom:
+  Students are encouraged to pick something they enjoy and create a game that's both fun and a showcase of their abilities. The final product should be intuitive and enjoyable for others to play.
+  
+  🚀 Goal:
+  This project is a chance for students to demonstrate their skills in creating a complete, final project from concept to execution. It emphasizes creativity, programming, and hardware interaction skills.
 
   ### Components:
     •Arduino Uno Board
